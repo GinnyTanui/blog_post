@@ -20,7 +20,6 @@ const BlogPost = () => {
       {/* SEO Meta Tags */}
       <head>
         <title>What is Frontend Development? | Dev Academy Blog</title> 
-        <meta name="google-site-verification" content="VJn41jZ3Wcf9mohAgW_hRKk4BHxjhK6lc9gCFDohnWg" />
         <meta name="description" content="Learn what frontend development is, why it's essential in Kenya, and how to start with tools, mindset, and resources." />
         <meta name="keywords" content="Frontend Development Kenya, HTML CSS JavaScript, Web Development, Dev Academy" />
       </head>
