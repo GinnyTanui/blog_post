@@ -1,12 +1,53 @@
-# React + Vite
+# 🌐 Frontend Development in Kenya — Dev Academy Blog
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📖 Overview
 
-Currently, two official plugins are available:
+This project is a **blog post built using React and Vite**, designed to educate beginners in Kenya about **frontend development**. It aims to highlight how aspiring developers can start coding with basic tools, available resources, and a growth-focused mindset — all styled using **Tailwind CSS**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The blog is written in **plain, beginner-friendly language** to help make web development accessible to anyone interested in tech.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔧 Tech Stack
+
+- **React** – JavaScript library for building UI
+- **Vite** – Lightning-fast frontend build tool
+- **Tailwind CSS** – Utility-first CSS framework
+- **Vercel** – Deployment and hosting platform
+
+---
+
+## 📌 Features
+
+- Responsive and clean layout
+- Optimized for readability and SEO
+- Custom blog structure with image placeholders
+- Sticky table of contents for easy navigation
+- “Back to Top” floating button
+- Author section and Call to Action (CTA)
+- Internal linking structure planned for multi-blog scalability
+
+---
+
+## 🧠 Purpose & Learning Goals
+
+- ✍️ Practice writing **SEO-optimized blog content**
+- 🧱 Build a structured **React + Vite** layout from scratch
+- 🖼️ Learn about blog design, layout structure, and image optimization
+- 📈 Learn how to publish a real blog on **Vercel** and share with an audience
+- 💼 Lay the foundation for **portfolio work** and potential client attraction
+
+---
+
+## 🚀 How to Run Locally
+
+```bash
+# Clone the project
+git clone https://github.com/ginnytanui/blog_post.git
+cd seo-website
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
